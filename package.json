@@ -2,7 +2,7 @@
   "name": "libusbjs",
   "version": "0.0.1",
   "description": "libusb node wrapper",
-  "main": "index.js",
+  "main": "libusbjs.js",
   "scripts": {
     "install": "node-gyp configure build"
   },
